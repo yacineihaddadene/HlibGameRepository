@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+Checkpoint 2
+Game development with the Unity cross platform engine
+420-N44-LA, sect. 00002
+Olivier Dufort, Yacine Ihaddadéne. Eric Kossovsky
+
+
+
+
+
+
+
+
+
+
+
+
+10 features/work steps to implement
+UI menu screen to start the game
+Various scenes to represent each level
+4 distinct, different and well structured levels (look and story)
+pause / option menu and cutscenes between levels (if possible)
+Different maps for each level, with proper physics and Tilemap sets for each
+A main character and NPCs, such as enemies and/or allies
+Proper textures and colliders for each Game Object
+Distinct scripts and tags for each Game object whenever possible
+A well elaborated story that is completed by the end of level 4 and easy enough for all to understand
+Interaction object, such as chest and boxes that the user will be able to interact with to obtain information, enter passwords, complete puzzles, etc
+
+4 steps implemented so far
+Tilemaps and map structure, proper textures and colliders for each Game Object, A well elaborated story, prefabs and a main character, a proper camera that follows the hero, as well as many other elements started such as,, different scenes. Why we chose those 4 elements? Firstly, the UI menu is the starting component of any game and since this is the true start of our final project, we figured that to start with the start of the game was a good thing. Secondly, the pause/option menu was another essential component in almost any game that is consistently present, hence why we chose to incorporate it so early. As for now, all Game object, Tilemaps, etc, have proper colliders and physics interactions, which is a must to have when already creating the game as it allows us to test bit by bit and correct issues much faster than when trying to fix the entire thing at once near the end. Finally, as the final work step we have implemented is the creation of an elaborated story, which is crucial to guide us during the design phase of our game and without it we would not know where we are going with this project and nothing would make sense.
+
+Plan for the next 5 weeks
+Week 1: Finish each level’s tilemaps and map structure if possible, as well as the scene arrangement and changing of scenes
+Week 2: Add the remaining collisions and physics property, as well as creating scripts for enemies
+Week 3: Finish interaction scripts and triggers for chests and similar items, correct lighting and camera to follow character
+Week 4: Complete each level by adding the Game Objects and scripts to NPCs to complete the levels based on the story and their design.
+Week 5: Test and debug the entire project again and again (even tho prior tests will be ran) to make sure everything works perfectly as intended and the project is ready for submission.
